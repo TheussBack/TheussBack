@@ -1,8 +1,6 @@
----
-
 # Welcome to My GitHub!
 
-Welcome to my GitHub page! Here, you’ll find my ongoing projects, contributions, and various coding adventures. I specialize in a range of technologies, with a particular focus on C programming, game development, and algorithm design. 
+Welcome to my GitHub page! Here, you’ll find my ongoing projects, contributions, and various coding adventures. I specialize in a range of technologies, with a particular focus on C programming, game development, and algorithm design.
 
 I aim to continuously improve and develop new skills, and this space serves as a portfolio of my learning journey. Thanks for checking it out!
 
@@ -17,11 +15,22 @@ Here's a quick overview of my recent activity and contributions:
 
 ---
 
-## 42 Stats
+## Profile Views
 
-As a proud student of 42, I actively engage in coding projects and challenges. Here’s a quick look at my 42 stats:
+![Profile Views](https://komarev.com/ghpvc/?username=TheussBack)
 
-[![hrobin's 42 stats](https://badge.emaugale.com/api/v2/clx0uryi8089701qkfy7qmq3k/stats?cursusId=21&coalitionId=45)](https://github.com/Zekao/badge42)
+---
+
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheussBack&theme=chartreuse-dark)
+
+---
+
+## Recent Activity
+
+<!-- Recent activity on GitHub -->
+<img src="https://activity-graph.herokuapp.com/graph?username=TheussBack&theme=chartreuse-dark" alt="Recent GitHub Activity" />
 
 ---
 
